@@ -7,7 +7,7 @@ module.exports = {
   output: {
     filename: 'index.js',
 		path: path.resolve( __dirname, 'dist' ),
-		library: 'youtubeVideo',
+		library: 'YoutubeVideo',
 		libraryTarget: 'umd',
 		umdNamedDefine: true
   },

@@ -7,7 +7,8 @@ Youtube Video Vue Component
   `npm install @spacebartech/youtube-video`
 
 ## Usage
+  `const YoutubeVideo = require( '@spacebartech/youtube-video' )`
 
 ## Tests
 
-`npm test`
+  `npm test`
